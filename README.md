@@ -1,9 +1,13 @@
+<p align="center">
+        <img src="https://github.com/kingleirbag/Maze-Project/blob/main/assets/gameplay.png" alt="maze" />
+    </a>
+</p>
 <h1 align="center">
 	Maze Project
 </h1>
+<p align="center">This is Maze, a 3D first-person shooter game developed in C using the old-school graphics library, Minilibx. Inspired by classic games like Wolfenstein and Doom, Maze brings back the nostalgia of the golden age of gaming with its raycasting technique to render the environment, complete with walls, enemies, and objects.</p>
 
 ---
-
 <p align="center">
     <a href="https://www.youtube.com/watch?v=R5xD5tAhLZw" target="_blank">
 	<img src="https://img.youtube.com/vi/2E4RQj_uQ4Q/0.jpg" alt="maze gameplay" />
@@ -20,8 +24,6 @@
   * [Map Configuration](#map-configuration)
   * [Gameplay](#gameplay)
   * [Contributing](#contributing)
-
-This is Maze, a 3D first-person shooter game developed in C using the old-school graphics library, Minilibx. Inspired by classic games like Wolfenstein and Doom, Maze brings back the nostalgia of the golden age of gaming with its raycasting technique to render the environment, complete with walls, enemies, and objects.
 
 ## Features
 
