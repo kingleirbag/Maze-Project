@@ -22,7 +22,7 @@
 ## Features
 <p align="center">
     <a href="https://www.youtube.com/watch?v=R5xD5tAhLZw" target="_blank">
-	<img src="https://github.com/kingleirbag/Maze-Project/blob/main/assets/ty.png" alt="maze gameplay" />
+	<img src="https://github.com/kingleirbag/Maze-Project/blob/main/assets/yt.png" alt="maze gameplay" />
     </a>
     <br />
     <i>My Maze showcase - YouTube</i>
