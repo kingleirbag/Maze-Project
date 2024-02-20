@@ -2,6 +2,16 @@
 	Maze Project
 </h1>
 
+---
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=R5xD5tAhLZw" target="_blank">
+	<img src="https://img.youtube.com/vi/2E4RQj_uQ4Q/0.jpg" alt="maze gameplay" />
+    </a>
+    <br />
+    <i>My Maze showcase - YouTube</i>
+</p>
+
 ## Table of Contents
 
 - Maze project
