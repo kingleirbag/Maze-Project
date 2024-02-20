@@ -74,7 +74,13 @@ Also, use `make help` to know what are the characters you can use in the map con
 - **1 - 2:** to change current weapon (only available/collected ones)
 
 ## About
-
+<p align="center">
+    <a href="https://youtu.be/I68BbS2pAcE" target="_blank">
+	<img src="https://github.com/kingleirbag/Maze-Project/blob/main/assets/abtus.png" alt="maze about us" />
+    </a>
+    <br />
+    <i>About Us - YouTube</i>
+</p>
 This project was born from a shared love for retro gaming and a desire to challenge ourselves with complex game development techniques. The idea was sparked during a late-night discussion about our favorite childhood games and the desire to recreate that nostalgic feeling in a modern context.
 
 As a Portfolio Project for Holberton School, this project has been an opportunity for us to showcase our skills and creativity in game development. It has been a journey of learning, collaboration, and problem-solving, and we are proud to present the result of our hard work.
