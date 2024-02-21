@@ -27,7 +27,7 @@
     <br />
     <i>My Maze showcase - YouTube</i>
 </p>
-- Immersive first-person gameplay with raycasting rendering technique.
+- Immersive first-person gameplay with raycasting rendering technique
 Embark on a captivating journey through the depths of intricate levels in "Maze" where immersive first-person gameplay awaits. Utilizing cutting-edge raycasting rendering technique, every corner, wall, and ceiling is meticulously crafted to immerse players in a world filled with mystery and peril.
 
 - Intricately designed levels featuring walls, floors, and ceilings
@@ -85,10 +85,21 @@ This project was born from a shared love for retro gaming and a desire to challe
 
 As a Portfolio Project for Holberton School, this project has been an opportunity for us to showcase our skills and creativity in game development. It has been a journey of learning, collaboration, and problem-solving, and we are proud to present the result of our hard work.
 
+### Acknowledgments(Related projects)
+
+* The Coding Train (raycasting inspiration)
+* Wolfenstein 3D (for the controversial textures)
+* And macrespo (for this beautiful life bar)
 
 ### Team Members
 - [Gabriel Muthenya](https://www.linkedin.com/in/gabriel-muthenya-1a122978/) | [GitHub](https://github.com/kingleirbag) | [Twitter](https://twitter.com/gmthexx)
 
-## Repository
+## Contributing
 
 You can find the GitHub repository for this project [here](https://github.com/kingleirbag/Maze-Project.git). Feel free to explore the code and contribute to the project!
+
+## 📝 License
+
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
+
+---
